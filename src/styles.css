@@ -1,3 +1,5 @@
+/* RESETS */
+
 html {
   font-size: 62.5%; /* 1rem = 10px */
 }
@@ -15,6 +17,28 @@ body {
   box-sizing: inherit;
 }
 
-.warning {
-  color: rgb(85, 15, 56);
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
 }
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* YOUR STYLES GOES HERE */
