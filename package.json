@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Shailesh Kumar <shailesh.sundram@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sksundram/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sksundram/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sksundram/react-boilerplate#readme"
 }
